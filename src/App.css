@@ -1,0 +1,15 @@
+body{
+  background-color: #222;
+  color: #fff;
+}
+
+main img{
+  max-width: 500px;
+}
+
+main{
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  margin: 0 auto;
+}
